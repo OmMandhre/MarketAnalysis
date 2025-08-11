@@ -4,7 +4,7 @@ import spacy
 
 
 
-openai.api_key = "put your api key🥲"
+openai.api_key = "api Key goes here!"
 
 
 
